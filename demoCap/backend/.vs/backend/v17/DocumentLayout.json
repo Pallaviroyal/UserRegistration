@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|c:\\wiprotraining\\capstone\\democap\\backend\\backend\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|solutionrelative:backend\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|c:\\wiprotraining\\capstone\\democap\\backend\\backend\\repositories\\groupcsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|solutionrelative:backend\\repositories\\groupcsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|c:\\wiprotraining\\capstone\\democap\\backend\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|solutionrelative:backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|c:\\wiprotraining\\capstone\\democap\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|c:\\wiprotraining\\capstone\\democap\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAA675-21D3-4958-8B36-604AC9C73EE2}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupcsRepository.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Repositories\\GroupcsRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\GroupcsRepository.cs",
+              "ToolTip": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Repositories\\GroupcsRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\GroupcsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:11:31.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Groups.cs",
+              "ToolTip": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Models\\Groups.cs",
+              "RelativeToolTip": "backend\\Models\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:27:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:04:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:03:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\WiproTraining\\Capstone\\demoCap\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:51:45.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
